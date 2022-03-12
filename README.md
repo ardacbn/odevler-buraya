@@ -1,0 +1,2 @@
+# odevler-buraya
+Sadece Ödevler
